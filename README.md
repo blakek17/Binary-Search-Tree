@@ -1,4 +1,4 @@
-# Binary-Search-Tree-Fall-2019
+# Binary-Search-Tree
 A binary search tree class and account database program that implements it.
 
 These programs were developed collaboratively with a fellow student as an academic project. show9.cpp, test9.cpp, and accounts.dat were provided by the instructor.
